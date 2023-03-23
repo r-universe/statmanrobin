@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "Lock5Data"]
+	path = Lock5Data
+	url = https://github.com/cran/Lock5Data
+	shallow = true
+	registered = true
 [submodule "Stat2Data"]
 	path = Stat2Data
 	url = https://github.com/statmanrobin/stat2data
